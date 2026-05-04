@@ -1,2 +1,2 @@
-# pima-diabetes-ai-project
+# pima-diabetes-project
 Diabetes prediction using machine learning
