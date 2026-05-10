@@ -56,7 +56,7 @@ Bu veri setinde eksik(null) değer yoktur.
 | Pregnancies   | Bireyin geçirdiği hamilelik sayısı  | Sayısal  |
 |  Glucose    | Kandaki glikoz (şeker) seviyesi   |  Sayısal  |
 | BloodPressure |  Dinlenme halindeki kan basıncı değeri | Sayısal |
-|  SkinThickness    |  Deri kıvrım kalınlığı ölçümü      | Sayısal     |
+|  SkinThickness    |  Deri kalınlığı ölçümü     | Sayısal     |
 | Insulin   | Kandaki insülin seviyesi  | Sayısal  |
 |  BMI    |  Vücut kitle indeksi | Sayısal    |
 | DiabetesPedigreeFunction   |  Aile geçmişine bağlı diyabet riski katsayısı | Sayısal   |
