@@ -56,9 +56,9 @@ Bu veri setinde eksik(null) değer yoktur.
 | Pregnancies   | Bireyin geçirdiği hamilelik sayısı  | Sayısal  |
 |  Glucose    | Kandaki glikoz (şeker) seviyesi   |  Sayısal  |
 | BloodPressure |  Dinlenme halindeki kan basıncı değeri | Sayısal |
-|  SkinThickness    | B        | Sayısal     |
-| Insulin   | Veri 2   | Sayısal  |
-|  BMI    | B        | Sayısaş     |
-| DiabetesPedigreeFunction   | Veri 2   | Sayısal   |
-|  Age    | B        | Sayısal       |
-| Outcome  | Veri 2   | Kategorik |
+|  SkinThickness    |  Deri kıvrım kalınlığı ölçümü      | Sayısal     |
+| Insulin   | Kandaki insülin seviyesi  | Sayısal  |
+|  BMI    |  Vücut kitle indeksi | Sayısal    |
+| DiabetesPedigreeFunction   |  Aile geçmişine bağlı diyabet riski katsayısı | Sayısal   |
+|  Age    | Bireyin yaşı    | Sayısal       |
+| Outcome  | Diyabet durumu(0: Sağlıklı, 1: Diyabet)| Kategorik |
