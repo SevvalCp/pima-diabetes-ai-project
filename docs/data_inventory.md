@@ -10,9 +10,9 @@ Kaynak:https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 Veri seti toplamda 768 gözlem(satır) ve 8 bağımsız değişken(özellik) içermektedir.Ayrıca bireyin diyabet durumunu gösteren 1 hedef değişken bulunmaktadır.
 Her satır bir bireyi temsil etmektedir.Özellikler bireyin sağlık ölçümleri ve fiziksel bilgilerini içermektedir
 (768,9)
-Toplam gözlem sayısı:768
-Toplam özellik sayısı:8
-Hedef değişken sayısı:1
+#### Toplam gözlem sayısı:768
+#### Toplam özellik sayısı:8
+#### Hedef değişken sayısı:1
 Hedef değişken:Bireyin diyabet hastası olup olmadığını göstermektedir.(Outcome).
 Outcome değer 0 ise birey "Diyabet değil",outcome değer 1 ise birey "Diyabet hastası".
 Bu proje bir ikili sınıflandırma(binary classification) problemidir.
