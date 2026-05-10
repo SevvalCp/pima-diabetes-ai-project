@@ -44,8 +44,12 @@ Planlanan görselleştirmeler:
 ##### Veri Ölçeklendirme
 Makine öğrenmesi algoritmalarının performansını artırmak amacıyla gerekli durumlarda veri ölçeklendirme işlemleri uygulanacaktır.
 Kullanılması planlanan yöntemler:
+###### StandardScaler
+###### MinMaxScaler
+Özellikle Logistic Regression,SVM ve KNN gibi algoritmalar için ölçeklendirme önemli bir adımdır.
 #### Boş Değer Tespiti
 Bu veri setinde eksik(null) değer yoktur.
 <img width="397" height="272" alt="image" src="https://github.com/user-attachments/assets/6c683925-bb9a-4023-8d4d-7fec9f95aa4d" />
+### Veri Sözlüğü
 
 
