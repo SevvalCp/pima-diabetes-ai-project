@@ -27,3 +27,7 @@ Veri setindeki bazı sütunlarda biyolojik olarak gerçekçi olmayan 0 değerler
 ##### BMI
 Bu nedenle söz konusu değerler eksik veri olarak değerlendirilecektir.
 <img width="978" height="537" alt="image" src="https://github.com/user-attachments/assets/5c088a88-6fdc-49bc-82a8-099d1338ec23" />
+#### Eksik Değer Tespiti
+Bu veri setinde eksik(null) değer yoktur.
+<img width="397" height="272" alt="image" src="https://github.com/user-attachments/assets/6c683925-bb9a-4023-8d4d-7fec9f95aa4d" />
+
