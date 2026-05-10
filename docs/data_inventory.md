@@ -62,3 +62,4 @@ Bu veri setinde eksik(null) değer yoktur.
 | DiabetesPedigreeFunction   |  Aile geçmişine bağlı diyabet riski katsayısı | Sayısal   |
 |  Age    | Bireyin yaşı    | Sayısal       |
 | Outcome  | Diyabet durumu(0: Sağlıklı, 1: Diyabet)| Kategorik |
+<img width="459" height="266" alt="image" src="https://github.com/user-attachments/assets/b5384cc2-db60-44f5-bf04-5c23a797a43e" />
