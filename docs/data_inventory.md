@@ -51,6 +51,9 @@ Kullanılması planlanan yöntemler:
 Bu veri setinde eksik(null) değer yoktur.
 <img width="397" height="272" alt="image" src="https://github.com/user-attachments/assets/6c683925-bb9a-4023-8d4d-7fec9f95aa4d" />
 ### Veri Sözlüğü
-| Değişken | Açıklama | |---|---| | Pregnancies | Hamilelik sayısı | | Glucose | Kan şekeri | | BloodPressure | Kan basıncı | | SkinThickness | Deri kalınlığı | | Insulin | İnsülin | | BMI | Vücut kitle indeksi | | DiabetesPedigreeFunction | Genetik risk | | Age | Yaş | | Outcome | Diyabet durumu |
+| Başlık 1 | Başlık 2 | Başlık 3 |
+|----------|----------|----------|
+| Veri 1   | Veri 2   | Veri 3   |
+| A        | B        | C        |
 
 
