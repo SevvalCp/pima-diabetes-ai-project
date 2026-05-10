@@ -1,4 +1,5 @@
-# Problem Tanımı
+# Problem Tanımlama
+## Problem Tanımı
 Diyabet erken teşhis edilmediğinde kalp-damar hastalıkları,böbrek yetmezliği,görme kaybı ve sinir hasarı gibi ciddi sağlık problemlerine neden olabilmektedir.
 Hastalığın başlangıç evrelerinde belirtiler her zaman açık şekilde görülmediği için birçok birey uzun süre diyabet hastası olduğunu fark edememektedir.
 Geleneksel teşhis yöntemleri uzman değerlendirmesi ve laboratuvar testleri gerektirdiğinden zaman ve maliyet açısından yük oluşturabilmektedir.
