@@ -27,7 +27,25 @@ Veri setindeki bazı sütunlarda biyolojik olarak gerçekçi olmayan 0 değerler
 ##### BMI
 Bu nedenle söz konusu değerler eksik veri olarak değerlendirilecektir.
 <img width="978" height="537" alt="image" src="https://github.com/user-attachments/assets/5c088a88-6fdc-49bc-82a8-099d1338ec23" />
-#### Eksik Değer Tespiti
+##### Gerçekçi Olmayan 0 Değerlerin İşlenmesi
+Gerçekçi olmayan 0 değerleri eksik veri olarak işaretlenecektir ve veri kaybını önlemek amacıyla uygun yöntemlerle doldurulacaktır.
+Kullanılması planlanan yöntemler:
+###### Ortalama(Mean) ile doldurma
+###### Veri dağılımına göre uygun yöntemin seçilmesi
+##### Veri Görselleştirme
+Veri setinin daha iyi anlaşılması amacıyla çeşitli görselleştirme işlemleri yapılacaktır.
+Planlanan görselleştirmeler:
+###### Histogram grafikleri
+###### Korelasyon matrisi
+###### Eksik Değer Tespiti
+###### Sınıf dağılımı grafikleri
+###### Heatmap görselleştirmeleri
+###### Boxplot grafikleri
+##### Veri Ölçeklendirme
+Makine öğrenmesi algoritmalarının performansını artırmak amacıyla gerekli durumlarda veri ölçeklendirme işlemleri uygulanacaktır.
+Kullanılması planlanan yöntemler:
+#### Boş Değer Tespiti
 Bu veri setinde eksik(null) değer yoktur.
 <img width="397" height="272" alt="image" src="https://github.com/user-attachments/assets/6c683925-bb9a-4023-8d4d-7fec9f95aa4d" />
+
 
