@@ -51,9 +51,14 @@ Kullanılması planlanan yöntemler:
 Bu veri setinde eksik(null) değer yoktur.
 <img width="397" height="272" alt="image" src="https://github.com/user-attachments/assets/6c683925-bb9a-4023-8d4d-7fec9f95aa4d" />
 ### Veri Sözlüğü
-| Başlık 1 | Başlık 2 | Başlık 3 |
+| Değişken | Açıklama  |Veri Tipi|
 |----------|----------|----------|
-| Veri 1   | Veri 2   | Veri 3   |
-| A        | B        | C        |
-
-
+| Pregnancies   | Bireyin geçirdiği hamilelik sayısı  | Sayısal  |
+|  Glucose    | Kandaki glikoz (şeker) seviyesi   |  Sayısal  |
+| BloodPressure |  Dinlenme halindeki kan basıncı değeri | Sayısal |
+|  SkinThickness    | B        | Sayısal     |
+| Insulin   | Veri 2   | Sayısal  |
+|  BMI    | B        | Sayısaş     |
+| DiabetesPedigreeFunction   | Veri 2   | Sayısal   |
+|  Age    | B        | Sayısal       |
+| Outcome  | Veri 2   | Kategorik |
