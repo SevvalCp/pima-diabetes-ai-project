@@ -18,25 +18,25 @@ Karşılaştırmalar sonucu en başarılı olan model ile ilerlenecektir.
 
 ## Paydaş Analizi
 Bu projeden doğrudan veya dolaylı olarak etkilenen paydaşlar şunlardır:
-Hastaneler:Hastaneler,geliştirilen sistem sayesinde hastaların risk analizlerini daha hızlı gerçekleştirebilir ve teşhis süreçlerini destekleyebilir. 
-Doktorlar ve sağlık çalışanları:Doktorlar,makine öğrenmesi tabanlı tahmin sonuçlarını yardımcı karar destek sistemi olarak kullanabilir.Bu sistem sayesinde sağlık çalışanlarının iş yükünün de hafifletilmesi amaçlamnmıştır.
-Hastalar:Hastaların erken risk tespiti sayesinde daha hızlı tedavi sürecine başlanabilir ve olası komplikasyonların önüne geçilebilir.
-Sağlık Kuruluşları:Sağlık kuruluşları,toplum sağlığı analizlerinde ve erken teşhis çalışmalarında bu tür sistemlerden faydalanabilir. 
+### Hastaneler:Hastaneler,geliştirilen sistem sayesinde hastaların risk analizlerini daha hızlı gerçekleştirebilir ve teşhis süreçlerini destekleyebilir. 
+### Doktorlar ve sağlık çalışanları:Doktorlar,makine öğrenmesi tabanlı tahmin sonuçlarını yardımcı karar destek sistemi olarak kullanabilir.Bu sistem sayesinde sağlık çalışanlarının iş yükünün de hafifletilmesi amaçlamnmıştır.
+### Hastalar:Hastaların erken risk tespiti sayesinde daha hızlı tedavi sürecine başlanabilir ve olası komplikasyonların önüne geçilebilir.
+### Sağlık Kuruluşları:Sağlık kuruluşları,toplum sağlığı analizlerinde ve erken teşhis çalışmalarında bu tür sistemlerden faydalanabilir. 
 
 ## Başarı Metrikleri
 Model performansını değerlendirmek için aşağıdaki metrikler kullanılacaktır:
-Accuracy(Doğruluk):Modelin toplam tahminler içerisindeki doğru tahmin oranını göstermektedir. 
-Precision(Kesinlik):Pozitif tahmin edilen bireylerin gerçekten diyabet hastası olma oranını ifade eder.
-Recall(Duyarlılık):Gerçek diyabet hastalarının model tarafından doğru şekilde tespit edilme oranını göstermektedir.
-F1 Score:Precision ve Recall değerlerinin harmonik ortalamasıdır.Özellikle dengesiz veri setlerinde önemli bir metriktir.
-ROC-AUC:Modelin sınıfları ayırt etme başarısını ölçen performans metriğidir.AUC değerinin yüksek olması modelin daha başarılı olduğunu göstermektedir. 
+### Accuracy(Doğruluk):Modelin toplam tahminler içerisindeki doğru tahmin oranını göstermektedir. 
+### Precision(Kesinlik):Pozitif tahmin edilen bireylerin gerçekten diyabet hastası olma oranını ifade eder.
+### Recall(Duyarlılık):Gerçek diyabet hastalarının model tarafından doğru şekilde tespit edilme oranını göstermektedir.
+### F1 Score:Precision ve Recall değerlerinin harmonik ortalamasıdır.Özellikle dengesiz veri setlerinde önemli bir metriktir.
+### ROC-AUC:Modelin sınıfları ayırt etme başarısını ölçen performans metriğidir.AUC değerinin yüksek olması modelin daha başarılı olduğunu göstermektedir. 
 
 ## Kısıtlar
-Küçük Veri Seti:Veri setinin sınırlı sayıda örnek içermesi modelin genelleme performansını etkileyebilir. 
-Eksik Veriler:Bazı sütunlarda eksik veya sıfır değerler bulunabilir.Bu durum veri ön işleme aşamasında ek işlemler gerektirmektedir. 
-Veri Dengesizliği:Diyabet hastası ve sağlıklı birey sayıları arasında dengesizlik bulunmaktadır.Bu durum modelin bazı sınıflara eğilim göstermesine neden olabilir. 
-Gerçek Dünya Karmaşıklığı:Gerçek hayatta diyabet oluşumunu etkileyen çok daha fazla faktör bulunmaktadır.Veri seti tüm sağlık koşullarını tam olarak temsil etmeyebilir. 
-Anlamsız/Gerçekçi Olmayan Değerler:Veri setinde bazı sütunlarda gerçek hayatta anlamlı olmayan çok sayıda 0 değeri bulunmaktadır.Özellikle glikoz seviyesi, insülin değeri, BMI ve kan basıncı gibi özelliklerde bulunan sıfır değerler biyolojik olarak gerçekçi değildir. 
+### Küçük Veri Seti:Veri setinin sınırlı sayıda örnek içermesi modelin genelleme performansını etkileyebilir. 
+### Eksik Veriler:Bazı sütunlarda eksik veya sıfır değerler bulunabilir.Bu durum veri ön işleme aşamasında ek işlemler gerektirmektedir. 
+### Veri Dengesizliği:Diyabet hastası ve sağlıklı birey sayıları arasında dengesizlik bulunmaktadır.Bu durum modelin bazı sınıflara eğilim göstermesine neden olabilir. 
+### Gerçek Dünya Karmaşıklığı:Gerçek hayatta diyabet oluşumunu etkileyen çok daha fazla faktör bulunmaktadır.Veri seti tüm sağlık koşullarını tam olarak temsil etmeyebilir. 
+### Anlamsız/Gerçekçi Olmayan Değerler:Veri setinde bazı sütunlarda gerçek hayatta anlamlı olmayan çok sayıda 0 değeri bulunmaktadır.Özellikle glikoz seviyesi, insülin değeri, BMI ve kan basıncı gibi özelliklerde bulunan sıfır değerler biyolojik olarak gerçekçi değildir. 
 Bu nedenle veri ön işleme aşamasında söz konusu değerlerin analiz edilmesi ve uygun yöntemlerle düzeltilmesi gerekmektedir. 
 
 ## Literatür Özeti
