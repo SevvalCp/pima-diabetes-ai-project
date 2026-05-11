@@ -4,8 +4,8 @@
 Bu projede kullanılan veri seti,diyabet tahmini çalışmalarında yaygın olarak tercih edilen Pima Indians Diabetes Dataset veri setidir.
 Veri seti,kadın bireylere ait çeşitli sağlık ölçümlerini içermekte olup bireylerin diyabet hastası olup olmadığını belirlemeyi amaçlamaktadır.
 #### Pima Indians Diabetes Dataset
-Kaynak:Kaggle/UCI Machine Learning Repository
-Kaynak:https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+##### Kaynak:Kaggle/UCI Machine Learning Repository
+##### Kaynak:https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 ### Veri Seti Özeti
 Veri seti toplamda 768 gözlem(satır) ve 8 bağımsız değişken(özellik) içermektedir.Ayrıca bireyin diyabet durumunu gösteren 1 hedef değişken bulunmaktadır.
 Her satır bir bireyi temsil etmektedir.Özellikler bireyin sağlık ölçümleri ve fiziksel bilgilerini içermektedir
