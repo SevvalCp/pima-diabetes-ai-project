@@ -126,13 +126,15 @@ Değerlendirme Sonuçları
 #### En İyi Model
 Deneysel sonuçlara göre, Lojistik Regresyon en dengeli performansı ve en yüksek ROC-AUC skorunu elde etmiştir.
 ## Proje Yapısı
-pima-diabetes-ai-project/
-│
-├── data/
-├── docs/
-├── notebooks/
-├── images/
-├── models/
-├── src/
-├── requirements.txt
-└── README.md
+### pima-diabetes-ai-project/
+#### │
+#### ├── data/
+#### ├── docs/
+#### ├── notebooks/
+#### ├── images/
+#### ├── models/
+#### ├── src/
+#### ├── requirements.txt
+#### └── README.md
+## Kullanılan Teknolojiler
+### Python,Pandas,NumPy,Matplotlib,Seaborn,Joblib,Jupyter Notebook,Scikit-Learn
