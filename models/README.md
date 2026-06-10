@@ -4,6 +4,6 @@ Bu klasör proje kapsamında eğitilmiş makine öğrenmesi modellerini içermek
 
 - logistic_regression.pkl
 - svm_model.pkl
-- mlp_model.pkl
+- nn_model.pkl
 
 Bu modeller Joblib kullanılarak kaydedilmiştir ve deployment aşamasında kullanılabilir.
