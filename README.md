@@ -28,6 +28,20 @@ Bu projenin amacı, tıbbi ölçümlere dayanarak diyabet durumunu tahmin edebil
 #### Eksik ve gürültülü veriler
 ## Veri Seti Bilgisi
 ### Veri Seti
-Pima Indians Diabetes Veri Seti
+Pima Indians Diabetes Dataset
 ### Kaynak
-UCI Machine Learning Repository
+Kaynak:Kaggle/UCI Machine Learning Repository
+Kaynak:https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+## Özellikler
+| Özellik                  | Açıklama                     |
+| ------------------------ | ---------------------------- |
+| Pregnancies              | Gebelik sayısı               |
+| Glucose                  | Plazma glukoz konsantrasyonu |
+| BloodPressure            | Diyastolik kan basıncı       |
+| SkinThickness            | Triseps deri kalınlığı       |
+| Insulin                  | Serum insülin seviyesi       |
+| BMI                      | Vücut kitle indeksi          |
+| DiabetesPedigreeFunction | Genetik diyabet risk skoru   |
+| Age                      | Hastanın yaşı                |
+| Outcome                  | Diyabet durumu (0/1)         |
+
