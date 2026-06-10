@@ -71,4 +71,35 @@ Aşağıdaki görselleştirmeler oluşturulmuştur:
 #### ROC Eğrisi
 #### Karmaşıklık Matrisi (Confusion Matrix)
 ##### Görseller /images klasöründe bulunmaktadır
-
+## Veri Ön İşleme
+Aşağıdaki ön işleme adımları uygulanmıştır:
+### Veri yükleme ve inceleme
+### Özellik seçimi
+## Veri Ön İşleme
+Aşağıdaki ön işleme adımları uygulanmıştır:
+### Veri yükleme ve inceleme
+### Özellik seçimi
+### StandardScaler ile veri normalizasyonu
+### Eğitim-test bölme işlemi
+### Cross-validation (çapraz doğrulama)
+## Makine Öğrenmesi Modelleri
+Üç farklı makine öğrenmesi algoritması uygulanmış ve karşılaştırılmıştır.
+### Lojistik Regresyon
+Temel model olarak kullanılan doğrusal sınıflandırma algoritmasıdır.
+### Destek Vektör Makineleri (SVM)
+Sınıflandırma problemleri için etkili bir gözetimli öğrenme algoritmasıdır.
+### Yapay Sinir Ağı (NN)
+Karmaşık ilişkileri öğrenebilen ve çok katmanlı yapılarla çalışan bir derin öğrenme modelidir.
+## Model Değerlendirme
+Aşağıdaki performans metrikleri kullanılmıştır:
+### Accuracy
+### Precision
+### Recall
+### F1 Skoru
+### ROC-AUC
+### RMSE
+### Cross Validation
+Modelin genellenebilirliğini değerlendirmek için 10 katlı çapraz doğrulama uygulanmıştır.
+Değerlendirme Sonuçları
+#### En İyi Model
+Deneysel sonuçlara göre, Lojistik Regresyon en dengeli performansı ve en yüksek ROC-AUC skorunu elde etmiştir.
