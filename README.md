@@ -26,3 +26,8 @@ Bu projenin amacı, tıbbi ölçümlere dayanarak diyabet durumunu tahmin edebil
 #### Sınırlı veri seti boyutu
 #### Olası sınıf dengesizliği
 #### Eksik ve gürültülü veriler
+## Veri Seti Bilgisi
+### Veri Seti
+Pima Indians Diabetes Veri Seti
+### Kaynak
+UCI Machine Learning Repository
