@@ -30,8 +30,8 @@ Bu projenin amacı, tıbbi ölçümlere dayanarak diyabet durumunu tahmin edebil
 ### Veri Seti
 Pima Indians Diabetes Dataset
 ### Kaynak
-Kaynak:Kaggle/UCI Machine Learning Repository
-Kaynak:https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+#### Kaynak:Kaggle/UCI Machine Learning Repository
+#### Kaynak:https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 ### Özellikler
 | Özellik                  | Açıklama                     |
 | ------------------------ | ---------------------------- |
@@ -51,24 +51,24 @@ Hedef Değişken: Outcome
 ## Keşifsel Veri Analizi (EDA)
 EDA, veri setini daha iyi anlamak ve önemli örüntüleri belirlemek için yapılmıştır.
 ### Yapılan Analizler
-İstatistiksel özetler
-Eksik değer analizi
-Sınıf dağılım analizi
-Korelasyon analizi
-Aykırı değer tespiti
-Özellik dağılım analizi
+#### İstatistiksel özetler
+#### Eksik değer analizi
+#### Sınıf dağılım analizi
+#### Korelasyon analizi
+#### Aykırı değer tespiti
+#### Özellik dağılım analizi
 ### Temel Bulgular
-Glukoz, diyabet sonucu ile en güçlü ilişkiye sahiptir.
-BMI ve yaş önemli tahmin değişkenleridir.
-Bazı değişkenlerde eksik veri olarak yorumlanabilecek sıfır değerler bulunmaktadır.
-Veri setinde orta düzeyde sınıf dengesizliği vardır.
+#### Glukoz, diyabet sonucu ile en güçlü ilişkiye sahiptir.
+#### BMI ve yaş önemli tahmin değişkenleridir.
+#### Bazı değişkenlerde eksik veri olarak yorumlanabilecek sıfır değerler bulunmaktadır.
+#### Veri setinde orta düzeyde sınıf dengesizliği vardır.
 ### Görselleştirmeler
 Aşağıdaki görselleştirmeler oluşturulmuştur:
-Sınıf Dağılımı
-Histogramlar
-Kutu Grafikleri (Boxplot)
-Korelasyon Isı Haritası
-ROC Eğrisi
-Karmaşıklık Matrisi (Confusion Matrix)
-#### Görseller /images klasöründe bulunmaktadır
+#### Sınıf Dağılımı
+#### Histogramlar
+#### Kutu Grafikleri (Boxplot)
+#### Korelasyon Isı Haritası
+#### ROC Eğrisi
+#### Karmaşıklık Matrisi (Confusion Matrix)
+##### Görseller /images klasöründe bulunmaktadır
 
