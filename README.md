@@ -109,6 +109,18 @@ Neural Network:0.745
 [0.74074074 0.74074074 0.75925926 0.72222222 0.7037037  0.7962963
  0.81481481 0.62264151 0.71698113 0.69811321]
 Ortalama:0.7316
-Std :0.0511
+<img width="272" height="157" alt="image" src="https://github.com/user-attachments/assets/c516866d-627a-4b49-8ebd-6018fbcd1164" />
+#### F1_score
+LR F1: 0.6802721088435374
+NN F1: 0.6040268456375839
+SVM F1: 0.6933333333333334
+#### Roc_auc_score
+LR ROC-AUC: 0.8548971193415636
+NN ROC-AUC: 0.7937448559670781
+SVM ROC-AUC: 0.8350617283950617
+#### RMSE
+LR RMSE: 0.4510689564392605
+NN RMSE: 0.5053822864043174
+SVM RMSE: 0.4462445508173732
 #### En İyi Model
 Deneysel sonuçlara göre, Lojistik Regresyon en dengeli performansı ve en yüksek ROC-AUC skorunu elde etmiştir.
