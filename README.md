@@ -96,14 +96,14 @@ Aşağıdaki performans metrikleri kullanılmıştır:
 ### RMSE
 ### Cross Validation
 Modelin genellenebilirliğini değerlendirmek için 10 katlı çapraz doğrulama uygulanmıştır.
-Değerlendirme Sonuçları
+#### Cross Validation Scores:
+##### [0.74074074 0.74074074 0.75925926 0.72222222 0.7037037  0.7962963 0.81481481 0.62264151 0.71698113 0.69811321]
+##### Ortalama:0.7316
+### Değerlendirme Sonuçları
 #### OPTIMIZATION MODEL COMPARISON =
 ##### Logistic Regression:0.797
 ##### SVM:0.801
 ##### Neural Network:0.745
-#### Cross Validation Scores:
-##### [0.74074074 0.74074074 0.75925926 0.72222222 0.7037037  0.7962963 0.81481481 0.62264151 0.71698113 0.69811321]
-##### Ortalama:0.7316
 #### Accuracy_score
 <img width="272" height="157" alt="image" src="https://github.com/user-attachments/assets/c516866d-627a-4b49-8ebd-6018fbcd1164" />
 
