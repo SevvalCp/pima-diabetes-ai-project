@@ -75,10 +75,6 @@ Aşağıdaki görselleştirmeler oluşturulmuştur:
 Aşağıdaki ön işleme adımları uygulanmıştır:
 ### Veri yükleme ve inceleme
 ### Özellik seçimi
-## Veri Ön İşleme
-Aşağıdaki ön işleme adımları uygulanmıştır:
-### Veri yükleme ve inceleme
-### Özellik seçimi
 ### StandardScaler ile veri normalizasyonu
 ### Eğitim-test bölme işlemi
 ### Cross-validation (çapraz doğrulama)
