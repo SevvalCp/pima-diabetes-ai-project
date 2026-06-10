@@ -125,3 +125,14 @@ Değerlendirme Sonuçları
 ##### SVM RMSE: 0.4462445508173732
 #### En İyi Model
 Deneysel sonuçlara göre, Lojistik Regresyon en dengeli performansı ve en yüksek ROC-AUC skorunu elde etmiştir.
+## Proje Yapısı
+pima-diabetes-ai-project/
+│
+├── data/
+├── docs/
+├── notebooks/
+├── images/
+├── models/
+├── src/
+├── requirements.txt
+└── README.md
