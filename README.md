@@ -136,7 +136,7 @@ Deneysel sonuçlara göre, Lojistik Regresyon en dengeli performansı ve en yük
 ### Python,Pandas,NumPy,Matplotlib,Seaborn,Joblib,Jupyter Notebook,Scikit-Learn
 ## Kurulum
 ### Repoyu klonlayın:
-#### git clone https://github.com/yourusername/pima-diabetes-ai-project.git
+#### git clone https://github.com/SevvalCapoglu/pima-diabetes-ai-project.git
 ### Bağımlılıkları yükleyin:
 #### pip install -r requirements.txt
 ### Jupyter Notebook çalıştırın
@@ -145,4 +145,4 @@ Deneysel sonuçlara göre, Lojistik Regresyon en dengeli performansı ve en yük
 ### Web tabanlı dashboard geliştirilmesi
 ## Yazar
 ### Şevval Çapoğlu
-## Yapay Zeka Projesi 2026
+### Yapay Zeka Projesi 2026
