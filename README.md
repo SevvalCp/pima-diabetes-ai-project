@@ -101,9 +101,14 @@ Aşağıdaki performans metrikleri kullanılmıştır:
 ### Cross Validation
 Modelin genellenebilirliğini değerlendirmek için 10 katlı çapraz doğrulama uygulanmıştır.
 Değerlendirme Sonuçları
- OPTIMIZATION MODEL COMPARISON =
+#### OPTIMIZATION MODEL COMPARISON =
 Logistic Regression:0.797
 SVM:0.801
 Neural Network:0.745
+#### Cross Validation Scores:
+[0.74074074 0.74074074 0.75925926 0.72222222 0.7037037  0.7962963
+ 0.81481481 0.62264151 0.71698113 0.69811321]
+Ortalama:0.7316
+Std :0.0511
 #### En İyi Model
 Deneysel sonuçlara göre, Lojistik Regresyon en dengeli performansı ve en yüksek ROC-AUC skorunu elde etmiştir.
