@@ -124,6 +124,7 @@ Deneysel sonuçlara göre, Lojistik Regresyon en dengeli performansı ve en yük
 ## Proje Yapısı
 ### pima-diabetes-ai-project/
 #### │
+#### ├── app/
 #### ├── data/
 #### ├── docs/
 #### ├── notebooks/
