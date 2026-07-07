@@ -45,7 +45,7 @@ Daha sonra kullanıcı aşağıdaki makine öğrenmesi modellerinden birini seç
 * Logistic Regression
 * Support Vector Machine (SVM)
 * Neural Network
-**Predict** butonuna basıldığında seçilen modele göre diyabet risk tahmini gerçekleştirilir.
+#### **Predict** butonuna basıldığında seçilen modele göre diyabet risk tahmini gerçekleştirilir.
 
 ### Önemli Bilgilendirme
 
